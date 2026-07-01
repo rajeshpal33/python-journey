@@ -21,8 +21,8 @@ Welcome to my core Python learning repository. Yeh space meri journey ko track k
 - [ ] Data Persistence (Handling JSON and CSV files)
 
 ### 🔹 Phase 3: External Ecosystem & Advanced Tools
-- [ ] Package Management using `pip`
-- [ ] Integrating Standard & External Libraries
+- [x] Package Management using `pip`
+- [x] Integrating Standard & External Libraries
 - [ ] Building Interactive CLI (Command Line) Tools
 - [ ] Capstone Project: Voice-Enabled Automation Assistant (Jarvis)
 

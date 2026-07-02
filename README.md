@@ -22,7 +22,7 @@ Welcome to my core Python learning repository. Yeh space meri journey ko track k
 
 ### 🔹 Phase 3: External Ecosystem & Advanced Tools
 - [x] Package Management using `pip`
-- [x] Integrating Standard & External Libraries
+- [x] Integrating Standard & External Libraries(Requests & gTTS)
 - [ ] Building Interactive CLI (Command Line) Tools
 - [ ] Capstone Project: Voice-Enabled Automation Assistant (Jarvis)
 

@@ -46,11 +46,13 @@ cd jarvis
 python main.py
 
 
-
 ## 🛠️ Environment & Setup
 - **Environment:** Android (Termux Terminal)
+
 - **Editor:** Nano / Vim
+
 - **Version Control:** Git & GitHub
+
 
 ---
 *Maintained by [rajeshpal33](https://github.com/rajeshpal33)*

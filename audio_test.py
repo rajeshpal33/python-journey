@@ -12,7 +12,7 @@ try:
     # 2. save audio in a temporary file
     audio_file = "welcome.mp3"
     tts.save(audio_file)
-    print("Audio fike generated successfully...")
+    print("Audio file generated successfully...")
     
     print("Listen! ...")
     os.system(f"play-audio {audio_file}")

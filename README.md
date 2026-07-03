@@ -23,8 +23,27 @@ Welcome to my core Python learning repository. Yeh space meri journey ko track k
 ### 🔹 Phase 3: External Ecosystem & Advanced Tools
 - [x] Package Management using `pip`
 - [x] Integrating Standard & External Libraries(Requests & gTTS)
-- [ ] Building Interactive CLI (Command Line) Tools
-- [ ] Capstone Project: Voice-Enabled Automation Assistant (Jarvis)
+- [x] Building Interactive CLI (Command Line) Tools
+- [x] Capstone Project: Voice-Enabled Automation Assistant (Jarvis)
+
+## 🛠️ Project Showcase: Jarvis Voice Assistant
+An interactive, continuous voice-controlled AI assistant built entirely in Python on an Android device using Termux. Jarvis can speak to you and listen to your voice commands in real-time.
+
+### 🚀 Features
+- **Continuous Conversation:** Runs on an infinite `while True` loop until safely exited.
+- **Voice Recognition (Hearing):** Integrated with Android's native Google Voice Engine using `termux-speech-to-text`.
+- **Text-to-Speech (Speaking):** Converts Python responses into clear audio via the `gTTS` library.
+- **Smart Decision Tree:** Processes inputs case-insensitively and replies dynamically based on keywords.
+
+### 📂 Folder Structure
+- `jarvis/` - Core project folder.
+  - `main.py` - The master script running the continuous speech loop.
+- `internet_test.py` - Script to verify connectivity before booting modules.
+
+### 🏃 How to Run Jarvis
+```bash
+cd jarvis
+python main.py
 
 ## 🛠️ Environment & Setup
 - **Environment:** Android (Termux Terminal)

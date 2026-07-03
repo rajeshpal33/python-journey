@@ -1,5 +1,0 @@
-User Name: Rajesh
-Status: Active
-Project: Jarvis Automation
-Last Login: Wednesday, 06
-current task: learning python
